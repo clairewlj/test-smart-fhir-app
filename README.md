@@ -1,1 +1,1 @@
-# test-smart-fhir-app
+# SMART-on-FHIR
